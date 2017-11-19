@@ -6,6 +6,7 @@ package com.kasahara;
  */
 public class App {
 //テストコメント
+//テストコメント2
     public static void main( String[] args ) {
         new App().printMessage("Taro");
     }
